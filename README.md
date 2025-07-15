@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-A classic Snake Game implemented using Python and Pygame. Control the snake to eat food, grow longer, and avoid hitting the walls or itself!
+A classic Snake Game implemented using C++. Control the snake to eat food, grow longer, and avoid hitting the walls or itself!
 
 ## 🎮 Gameplay
 
